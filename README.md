@@ -1,3 +1,20 @@
+# TODO
+
+- UI Library?
+  - OOTB
+  - Tamagui
+  - GlueStack
+  - UI Kitten
+- Source Data
+  - KanjiDic - http://www.edrdg.org/wiki/index.php/KANJIDIC_Project
+  - JMDict - http://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project
+- Data Tools
+  - PostgreSQL (use client pgAdmin)
+  - Prisma
+- Gestures?
+  - OOTB
+  - React Native Gesture Handler - https://blog.logrocket.com/react-native-gesture-handler-tutorial-examples/ / https://docs.swmansion.com/react-native-gesture-handler/docs/components/touchables
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
